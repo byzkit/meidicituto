@@ -20,9 +20,13 @@ pipeline {
       }
     }
   }
-  post {
-    always {
-      archiveArtifacts artifacts: 'newman/*.html', fingerprint: true
-    }
+ post {
+  always {
+    archiveArtifacts artifacts: 'newman/*.html', fingerprint: true
+    publishHTML(target: [
+      reportDir: 'newman',
+      reportFiles: 'Login_Report.html,Ranking_Report.html,ItemGrant_Report.html',
+      reportName: 'Newman Reports'
+    ])
   }
 }
