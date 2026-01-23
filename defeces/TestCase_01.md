@@ -22,6 +22,8 @@
 
 
 
+전체 테스트 진행률 (Execution Progress)
+
 <table>
 <tr>
 <td width="100px"><b>Execution</b></td>
