@@ -2,7 +2,7 @@
 name: "🐞 Bug Report"
 about: "메이플 키우기 결함 보고 양식"
 title: "[Bug] 한 줄 요약"
-labels: ["bug", "triage"]
+labels: ["bug", "triage", "S-Critical", "S-major", "S-minor"]
 ---
 ## 📝 결함 설명
 - **기능명:** - **결함 내용:** ## 📱 테스트 환경
