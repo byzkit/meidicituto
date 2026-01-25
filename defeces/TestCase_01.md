@@ -22,21 +22,3 @@
 
 
 
-전체 테스트 진행률 (Execution Progress)
-
-<table>
-<tr>
-<td width="100px"><b>Execution</b></td>
-<td width="400px">
-<img src="https://www.google.com/search?q=https://geps.dev/progress/95" alt="95%">
-</td>
-<td>95% Completed</td>
-</tr>
-<tr>
-<td><b>Pass Rate</b></td>
-<td>
-<img src="https://www.google.com/search?q=https://geps.dev/progress/94%3FdangerColor%3Dff4d4d%26warningColor%3Dffcc00%26successColor%3D2eb82e" alt="94%">
-</td>
-<td>94.6% Passed</td>
-</tr>
-</table>
